@@ -1,0 +1,11 @@
+<Name>         <Won>          <points>
+Myles          N              80             
+Myles          N              10             
+Myles          N              70             
+Myles          N              10             
+Myles          N              70             
+Myles          N              0              
+Myles          N              30             
+Myles          N              0              
+1              N              10             
+Myles          N              0              

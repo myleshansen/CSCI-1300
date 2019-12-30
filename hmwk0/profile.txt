@@ -1,0 +1,10 @@
+——Student Profile——
+
+Name: Myles Hansen
+
+Major/minor: Pre-Engineering
+
+Programming experience: AP Computer Science in high school and web developement work using HTML, CSS, and JavaScript
+
+What do you expect to learn in this course?
+- C++ and better foundation of computer science
